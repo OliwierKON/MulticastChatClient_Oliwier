@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="059a8e07-d34a-40f8-a740-739a5d8950e0" name="Changes" comment="SKAPADE" />
+    <list default="true" id="059a8e07-d34a-40f8-a740-739a5d8950e0" name="Changes" comment="fixade">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MulticastChatClient_Oliwier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MulticastChatClient_Oliwier.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,11 +58,19 @@
       <option name="project" value="LOCAL" />
       <updated>1715689343847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixade">
+      <created>1715689583035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715689583035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SKAPADE" />
-    <option name="LAST_COMMIT_MESSAGE" value="SKAPADE" />
+    <MESSAGE value="fixade" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixade" />
   </component>
 </project>
